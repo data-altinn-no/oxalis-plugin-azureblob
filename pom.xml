@@ -4,7 +4,7 @@
 
     <groupId>no.nadobe.oxalis.plugin</groupId>
     <artifactId>azureblob</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>azureblob</name>
@@ -13,7 +13,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <oxalis.version>4.0.2</oxalis.version>
+        <oxalis.version>4.0.3</oxalis.version>
         <guice.version>4.1.0</guice.version>
         <log4j.version>1.2.17</log4j.version>
         <jdk.version>1.8</jdk.version>
